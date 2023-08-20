@@ -1,0 +1,31 @@
+{
+  "name": "logic-roleplay-site",
+  "version": "1.0.0",
+  "description": "Logic Roleplay Website",
+  "author": "led4c",
+  "license": "MIT",
+  "main": "index.js",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs"
+  },
+  "keywords": [
+    "Logic Roleplay",
+    "Logic Projekt"
+  ],
+  "devDependencies": {
+    "vitepress": "1.0.0-rc.4"
+  },
+  "packageManager": "pnpm@8.6.12",
+  "pnpm": {
+    "peerDependencyRules": {
+      "ignoreMissing": [
+        "@algolia/client-search",
+        "search-insights"
+      ]
+    }
+  }
+}
