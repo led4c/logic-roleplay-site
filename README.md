@@ -6,10 +6,27 @@
 
 <p align="center">
     <a target="_blank" href="https://github.com/led4c/logic-roleplay-site/actions/workflows/deploy.yml">
-      <img style="display:inline-block;margin:0.2em;" alt="Deployment" src="https://github.com/led4c/logic-roleplay-site/actions/workflows/deploy.yml/badge.svg">
+      <img style="display:inline-block;margin:0.2em;" alt="deployment" src="https://github.com/led4c/logic-roleplay-site/actions/workflows/deploy.yml/badge.svg">
     </a>
+    <a target="_blank" href="https://github.com/led4c/logic-roleplay-site/">
+      <img style="display:inline-block;margin:0.2em;" alt="watchers" src="https://badgen.net/github/watchers/led4c/logic-roleplay-site?icon=awesome&label=Watchers">
+    </a>
+    <a target="_blank" href="https://github.com/led4c/logic-roleplay-site/">
+      <img style="display:inline-block;margin:0.2em;" alt="contributors" src="https://badgen.net/github/contributors/led4c/logic-roleplay-site?icon=gitter&label=Contributors">
+    </a>
+    <a target="_blank" href="https://github.com/led4c/logic-roleplay-site/">
+      <img style="display:inline-block;margin:0.2em;" alt="commits" src="https://badgen.net/github/commits/led4c/logic-roleplay-site?icon=git&label=Commits">
+    </a>
+    <br>
+    <a target="_blank" href="https://github.com/led4c/logic-roleplay-site/">
+      <img style="display:inline-block;margin:0.2em;" alt="last-commit" src="https://badgen.net/github/last-commit/led4c/logic-roleplay-site?icon=git&label=Last-Commit">
+    </a>
+    <a target="_blank" href="https://github.com/led4c/logic-roleplay-site/">
+      <img style="display:inline-block;margin:0.2em;" alt="forks" src="https://badgen.net/github/forks/led4c/logic-roleplay-site?icon=git&label=Forks">
+    </a>
+    <br/>
     <a target="_blank" href="https://github.com/led4c/logic-roleplay-site/blob/main/LICENSE">
-      <img style="display:inline-block;margin:0.2em;" alt="License" src="https://badgen.net/github/license/led4c/logic-roleplay-site?icon=travis&label=License">
+      <img style="display:inline-block;margin:0.2em;" alt="License" src="https://badgen.net/github/license/led4c/logic-roleplay-site?label=License">
     </a>
     <a target="_blank" href="https://discord.gg/UdrSdHaPYc">
       <img style="display:inline-block;margin:0.2em;" alt="Discord" src="https://badgen.net/discord/online-members/UdrSdHaPYc?icon=discord&label=Discord">
@@ -18,7 +35,12 @@
 
 <hr>
 
-## <b> Deployment</b>
+
+## Screenshots
+
+![Logic Roleplay Site](https://i.imgur.com/hhrpAGH.png)
+
+## Deployment
 
 Install dependencies
 
