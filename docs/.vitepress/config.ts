@@ -7,8 +7,8 @@ export default defineConfig({
     // base: '/logic-roleplay-site/',
     cleanUrls: true,
     sitemap: {
-        // hostname: 'https://led4c.github.io/logic-roleplay-site/',
-        hostname: 'https://www.logicprojekt.cf',
+        hostname: 'https://led4c.github.io/logic-roleplay-site/',
+        // hostname: 'https://www.logicprojekt.cf',
     },
     themeConfig: {
         search: {
