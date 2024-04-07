@@ -4,7 +4,7 @@ import { enConfig } from "./locales/en";
 
 export default defineConfig({
     lastUpdated: true,
-    // base: '/logic-roleplay-site/',
+    base: '/logic-roleplay-site/',
     cleanUrls: true,
     sitemap: {
         hostname: 'https://led4c.github.io/logic-roleplay-site/',
